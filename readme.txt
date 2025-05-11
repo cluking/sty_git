@@ -5,7 +5,4 @@ change 3
 
 insert 4
 
-
-change for master
-
-
+change for master and feature
